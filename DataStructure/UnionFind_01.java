@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @title : UnionFind
  * @problem : https://www.acmicpc.net/problem/10775
  */
-public class UnionFind {
+public class UnionFind_01 {
     public static class UF {
         int[] SZ;
         int[] p;
